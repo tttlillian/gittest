@@ -1,2 +1,1 @@
-print 
-nopri
+prin
