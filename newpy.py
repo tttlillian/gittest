@@ -1,2 +1,1 @@
-print 
-nop
+prin
